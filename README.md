@@ -25,5 +25,5 @@ Certified Data Analyst (SkilloVilla, 2026) | Skilled in SQL, Power BI, Python, E
 - Contribute to IT/analytics sector  
 
 ## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/ajay-goswami-130607273) 
-- [Email](onlyajay1998@gmail.com)
+- [LinkedIn] (https://www.linkedin.com/in/ajay-goswami-130607273) 
+- [Email]   [onlyajay1998@gmail.com]
