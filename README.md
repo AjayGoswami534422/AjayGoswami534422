@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ajay 👋
+Career switcher from teaching to Data Analytics.  
+Certified Data Analyst (SkilloVilla, 2026) | Skilled in SQL, Power BI, Python, Excel, Statistics  
 
-<!--
-**AjayGoswami534422/AjayGoswami534422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔑 Skills
+- SQL for business insights  
+- Power BI dashboards & DAX  
+- Python (Pandas, NumPy, Matplotlib)  
+- Excel analytics & visualization  
+- Statistical analysis & data interpretation  
 
-Here are some ideas to get you started:
+## 📂 Projects
+- 🛍️ **ShopNest Retail Analytics Dashboard**  
+  Power BI + SQL + Excel integration to analyze customer purchase patterns and optimize inventory decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **Sales Dashboard with DAX**  
+  End‑to‑end Power BI dashboard tracking KPIs, profit margins, and monthly sales trends.
+
+- 🐍 **Python Data Analysis (EDA)**  
+  Exploratory data analysis using Pandas, NumPy, and Matplotlib to uncover insights from large datasets.
+
+## 🎯 Goals
+- Build a strong analytics portfolio  
+- Apply transferable teaching skills (communication, presentation) to data storytelling  
+- Contribute to Bhubaneswar IT/analytics sector  
+
+## 📫 Connect
+- [LinkedIn](https://linkedin.com/in/your-link)  
+- [Email](mailto:your-email@example.com)
