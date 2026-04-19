@@ -22,8 +22,8 @@ Certified Data Analyst (SkilloVilla, 2026) | Skilled in SQL, Power BI, Python, E
 ## 🎯 Goals
 - Build a strong analytics portfolio  
 - Apply transferable teaching skills (communication, presentation) to data storytelling  
-- Contribute to Bhubaneswar IT/analytics sector  
+- Contribute to IT/analytics sector  
 
 ## 📫 Connect
-- [LinkedIn](https://linkedin.com/in/your-link)  
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](www.linkedin.com/in/ajay-goswami-130607273) 
+- [Email](onlyajay1998@gmail.com)
